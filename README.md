@@ -1,2 +1,0 @@
-Portal de filmes criado com o objetivo de ser utilizado como instrumento avaliativo da disciplina 'Desenvolvimento de Interfaces WEB', parte do curriculo do curso de Sistemas de Informação da PUC Minas.
-Incialmente desenvolvido com as tecnologias HTML e CSS.
